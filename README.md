@@ -1,3 +1,4 @@
+
 # search-dialog
 [![](https://jitpack.io/v/mirrajabi/search-dialog.svg)](https://jitpack.io/#mirrajabi/search-dialog)
 
@@ -184,3 +185,7 @@ String lcs(String text1, String text2)
 1.1.1 - `Fixes drawable overriding issue.`
 
 1.1 - `Adds loading feature.`
+=======
+# AndroidSearchableCalssicDialog-
+android searchable calssic alert dialog
+
